@@ -11,6 +11,14 @@ online-ordering是一个网上订餐的前端项目，基于Vue+Vant实现，采
 <img width="368" height="1022" alt="image" src="https://github.com/user-attachments/assets/4690c23d-3240-48e6-9e98-8b8f468b0c7c" /> <img width="368" height="1022" alt="image" src="https://github.com/user-attachments/assets/f9f61e7e-0149-4801-8370-1f7c6162a1a0" />
 <img width="368" height="1022" alt="image" src="https://github.com/user-attachments/assets/6a72f1eb-22b8-4e92-99ba-d183b89a023b" /> <img width="368" height="1022" alt="image" src="https://github.com/user-attachments/assets/51787a97-c648-4a21-94f2-60c5ae0861e2" />
 <img width="378" height="1029" alt="image" src="https://github.com/user-attachments/assets/71a8ec38-5b71-4840-b036-3adbdd35122f" /> <img width="368" height="1022" alt="image" src="https://github.com/user-attachments/assets/83c60bd7-4b7f-413e-a41f-151cd28258d3" />
+<img width="368" height="1022" alt="image" src="https://github.com/user-attachments/assets/6d5dc5f2-d348-433e-80eb-8f885c74da10" /> <img width="379" height="1029" alt="image" src="https://github.com/user-attachments/assets/d9223080-6cb1-4ca4-9381-7bb2100c7b73" />
+<img width="378" height="1017" alt="image" src="https://github.com/user-attachments/assets/fd563389-01bd-49ce-ae31-dae7d916a448" /> <img width="372" height="1020" alt="image" src="https://github.com/user-attachments/assets/e9a54c88-4c27-484a-87f9-84abbd1aebf8" />
+<img width="380" height="1007" alt="image" src="https://github.com/user-attachments/assets/ce542941-b542-4c9a-a6b2-1c4ecf47f686" />
+
+
+
+
+
 
 
 
