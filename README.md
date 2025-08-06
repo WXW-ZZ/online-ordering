@@ -9,5 +9,5 @@ online-ordering是一个网上订餐的前端项目，基于Vue+Vant实现，采
 
 # 项目演示
 首页界面
-<img width="379" height="1076" alt="image" src="https://github.com/user-attachments/assets/08adfebb-9a97-4b6d-845c-378256cbcf82" />
+<img width="379" height="1076" alt="image" src="https://github.com/user-attachments/assets/08adfebb-9a97-4b6d-845c-378256cbcf82" />  <img width="377" height="941" alt="image" src="https://github.com/user-attachments/assets/451817ae-0b50-424b-839e-5235bcd0863f" />
 
